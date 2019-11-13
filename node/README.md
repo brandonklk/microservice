@@ -12,6 +12,8 @@ npm init
 npm install restify
 ```
 
+## Iniciar aplicação
+
 ```bash
 node index.js
 ```
