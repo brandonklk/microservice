@@ -12,6 +12,8 @@ pip install
 pip install Flask
 ```
 
+## Iniciar aplicação
+
 ```bash
 python app.py
 ```
