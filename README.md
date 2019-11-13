@@ -2,7 +2,7 @@
 
 ## Definição
 
-Micro Serviços foram baseador em um aplicação de viagem, para alugar carros, comprar passagens aéreas e Estadia de hotéis.
+Micro Serviços foram baseados em um aplicação de viagem, para alugar carros, comprar passagens aéreas e Estadias de hotéis.
 
 ## Liguagem utilizadas
 
